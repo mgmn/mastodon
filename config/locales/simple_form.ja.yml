@@ -193,6 +193,7 @@ ja:
         email: メールアドレス
         expires_in: 有効期限
         fields: プロフィール補足情報
+        filter_action: 除外方法
         header: ヘッダー
         honeypot: "%{label} (入力しない)"
         inbox_url: リレーサーバーの inbox URL
