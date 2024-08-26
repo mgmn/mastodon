@@ -562,6 +562,7 @@
   "notification_requests.dismiss_multiple": "{count, plural, other {選択中の#件を無視する}}",
   "notification_requests.edit_selection": "選択",
   "notification_requests.exit_selection": "選択の終了",
+  "notification_requests.dropdown_button_label": "{count, plural, other {#件選択中}}",
   "notification_requests.explainer_for_limited_account": "このアカウントはモデレーターにより制限が課されているため、このアカウントによる通知は保留されています",
   "notification_requests.explainer_for_limited_remote_account": "このアカウントが所属するサーバーはモデレーターにより制限が課されているため、このアカウントによる通知は保留されています",
   "notification_requests.maximize": "最大化",
